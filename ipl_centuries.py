@@ -10,12 +10,11 @@ l = o.find_all('td',{"nowrap":"nowrap"})
 for i in range(len(l)):
 	l[i]=(l[i]).text
 
-l1=[["name","score","balls","no. of six","no.of fours","strike rate","ground","team","opposition","date"]]
 l2=o.find_all('a',{"class":"data-link"})
 for i in range(len(l2)):
 	l2[i]=(l2[i]).text
-
-
+	
+l1=[["name","score","balls","no. of six","no.of fours","strike rate","ground","team","opposition","date"]]
 i = 0
 j=0
 while i<len(l):
