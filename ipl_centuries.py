@@ -4,9 +4,6 @@ import re
 from bs4 import BeautifulSoup as bs
 import csv
 
-def striphtml(data):
-    p = re.compile(r'<.*?>')
-    return(p.sub('', data))
 r = requests.get('http://stats.espncricinfo.com/ci/engine/records/batting/list_hundreds.html?id=117;type=trophy')
 o = bs(r.content,'html.parser')
 l = o.find_all('td',{"nowrap":"nowrap"})
@@ -25,11 +22,12 @@ while i<len(l):
 	l1.append([l[i],l[i+1],l[i+2],l[i+3],l[i+4],l[i+5],l2[j+1],l[i+7],l[i+8][2:],l[i+9]])
 	i+=11
 	j+=3
-print(l1)
+#print(l1)
 myFile = open('ipl_centuries.csv', 'w',encoding='utf-8')
 with myFile:
-    writer = csv.writer(myFile)
-    writer.writerows(l1)
+    writer = csv.writer(myFile,lineterminator='\n')
+    for i in l1:
+    	writer.writerow(i)
 myFile.close()
      
 print("Writing complete")
