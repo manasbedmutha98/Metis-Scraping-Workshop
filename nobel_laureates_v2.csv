@@ -1,0 +1,660 @@
+Year,Field,Laureates
+2017,physics,Rainer Weiss,Barry C. Barish,Kip S. Thorne
+2017,chemistry,Jacques Dubochet,Joachim Frank,Richard Henderson
+2017,medicine,Jeffrey C. Hall,Michael Rosbash,Michael W. Young
+2017,literature,Kazuo Ishiguro
+2017,peace,International Campaign to Abolish Nuclear Weapons (ICAN) 
+2017,economic-sciences,Richard H. Thaler
+2016,physics,David J. Thouless,F. Duncan M. Haldane,J. Michael Kosterlitz
+2016,chemistry,Jean-Pierre Sauvage,Sir J. Fraser Stoddart,Bernard L. Feringa
+2016,medicine,Yoshinori Ohsumi
+2016,literature,Bob Dylan
+2016,peace,Juan Manuel Santos
+2016,economic-sciences,Oliver Hart,Bengt Holmström
+2015,physics,Takaaki Kajita,Arthur B. McDonald
+2015,chemistry,Tomas Lindahl,Paul Modrich,Aziz Sancar
+2015,medicine,William C. Campbell,Satoshi Ōmura
+2015,medicine,Youyou Tu
+2015,literature,Svetlana Alexievich
+2015,peace,National Dialogue Quartet 
+2015,economic-sciences,Angus Deaton
+2014,physics,Isamu Akasaki,Hiroshi Amano,Shuji Nakamura
+2014,chemistry,Eric Betzig,Stefan W. Hell,William E. Moerner
+2014,medicine,John O'Keefe,May-Britt Moser,Edvard I. Moser
+2014,literature,Patrick Modiano
+2014,peace,Kailash Satyarthi,Malala Yousafzai
+2014,economic-sciences,Jean Tirole
+2013,physics,François Englert,Peter W. Higgs
+2013,chemistry,Martin Karplus,Michael Levitt,Arieh Warshel
+2013,medicine,James E. Rothman,Randy W. Schekman,Thomas C. Südhof
+2013,literature,Alice Munro
+2013,peace,Organisation for the Prohibition of Chemical Weapons (OPCW) 
+2013,economic-sciences,Eugene F. Fama,Lars Peter Hansen,Robert J. Shiller
+2012,physics,Serge Haroche,David J. Wineland
+2012,chemistry,Robert J. Lefkowitz,Brian K. Kobilka
+2012,medicine,Sir John B. Gurdon,Shinya Yamanaka
+2012,literature,Mo Yan
+2012,peace,European Union (EU) 
+2012,economic-sciences,Alvin E. Roth,Lloyd S. Shapley
+2011,physics,Saul Perlmutter,Brian P. Schmidt,Adam G. Riess
+2011,chemistry,Dan Shechtman
+2011,medicine,Bruce A. Beutler,Jules A. Hoffmann
+2011,medicine,Ralph M. Steinman
+2011,literature,Tomas Tranströmer
+2011,peace,Ellen Johnson Sirleaf,Leymah Gbowee,Tawakkol Karman
+2011,economic-sciences,Thomas J. Sargent,Christopher A. Sims
+2010,physics,Andre Geim,Konstantin Novoselov
+2010,chemistry,Richard F. Heck,Ei-ichi Negishi,Akira Suzuki
+2010,medicine,Robert G. Edwards
+2010,literature,Mario Vargas Llosa
+2010,peace,Liu Xiaobo
+2010,economic-sciences,Peter A. Diamond,Dale T. Mortensen,Christopher A. Pissarides
+2009,physics,Charles Kuen Kao
+2009,physics,Willard S. Boyle,George E. Smith
+2009,chemistry,Venkatraman Ramakrishnan,Thomas A. Steitz,Ada E. Yonath
+2009,medicine,Elizabeth H. Blackburn,Carol W. Greider,Jack W. Szostak
+2009,literature,Herta Müller
+2009,peace,Barack H. Obama
+2009,economic-sciences,Elinor Ostrom
+2009,economic-sciences,Oliver E. Williamson
+2008,physics,Yoichiro Nambu
+2008,physics,Makoto Kobayashi,Toshihide Maskawa
+2008,chemistry,Osamu Shimomura,Martin Chalfie,Roger Y. Tsien
+2008,medicine,Harald zur Hausen
+2008,medicine,Françoise Barré-Sinoussi,Luc Montagnier
+2008,literature,Jean-Marie Gustave Le Clézio
+2008,peace,Martti Ahtisaari
+2008,economic-sciences,Paul Krugman
+2007,physics,Albert Fert,Peter Grünberg
+2007,chemistry,Gerhard Ertl
+2007,medicine,Mario R. Capecchi,Sir Martin J. Evans,Oliver Smithies
+2007,literature,Doris Lessing
+2007,peace,Intergovernmental Panel on Climate Change (IPCC) ,Albert Arnold (Al) Gore Jr.
+2007,economic-sciences,Leonid Hurwicz,Eric S. Maskin,Roger B. Myerson
+2006,physics,John C. Mather,George F. Smoot
+2006,chemistry,Roger D. Kornberg
+2006,medicine,Andrew Z. Fire,Craig C. Mello
+2006,literature,Orhan Pamuk
+2006,peace,Muhammad Yunus,Grameen Bank 
+2006,economic-sciences,Edmund S. Phelps
+2005,physics,Roy J. Glauber
+2005,physics,John L. Hall,Theodor W. Hänsch
+2005,chemistry,Yves Chauvin,Robert H. Grubbs,Richard R. Schrock
+2005,medicine,Barry J. Marshall,J. Robin Warren
+2005,literature,Harold Pinter
+2005,peace,International Atomic Energy Agency (IAEA) ,Mohamed ElBaradei
+2005,economic-sciences,Robert J. Aumann,Thomas C. Schelling
+2004,physics,David J. Gross,H. David Politzer,Frank Wilczek
+2004,chemistry,Aaron Ciechanover,Avram Hershko,Irwin Rose
+2004,medicine,Richard Axel,Linda B. Buck
+2004,literature,Elfriede Jelinek
+2004,peace,Wangari Muta Maathai
+2004,economic-sciences,Finn E. Kydland,Edward C. Prescott
+2003,physics,Alexei A. Abrikosov,Vitaly L. Ginzburg,Anthony J. Leggett
+2003,chemistry,Peter Agre
+2003,chemistry,Roderick MacKinnon
+2003,medicine,Paul C. Lauterbur,Sir Peter Mansfield
+2003,literature,John M. Coetzee
+2003,peace,Shirin Ebadi
+2003,economic-sciences,Robert F. Engle III
+2003,economic-sciences,Clive W.J. Granger
+2002,physics,Raymond Davis Jr.,Masatoshi Koshiba
+2002,physics,Riccardo Giacconi
+2002,chemistry,John B. Fenn,Koichi Tanaka
+2002,chemistry,Kurt Wüthrich
+2002,medicine,Sydney Brenner,H. Robert Horvitz,John E. Sulston
+2002,literature,Imre Kertész
+2002,peace,Jimmy Carter
+2002,economic-sciences,Daniel Kahneman
+2002,economic-sciences,Vernon L. Smith
+2001,physics,Eric A. Cornell,Wolfgang Ketterle,Carl E. Wieman
+2001,chemistry,William S. Knowles,Ryoji Noyori
+2001,chemistry,K. Barry Sharpless
+2001,medicine,Leland H. Hartwell,Tim Hunt,Sir Paul M. Nurse
+2001,literature,Sir Vidiadhar Surajprasad Naipaul
+2001,peace,United Nations (U.N.) ,Kofi Annan
+2001,economic-sciences,George A. Akerlof,A. Michael Spence,Joseph E. Stiglitz
+2000,physics,Zhores I. Alferov,Herbert Kroemer
+2000,physics,Jack S. Kilby
+2000,chemistry,Alan J. Heeger,Alan G. MacDiarmid,Hideki Shirakawa
+2000,medicine,Arvid Carlsson,Paul Greengard,Eric R. Kandel
+2000,literature,Gao Xingjian
+2000,peace,Kim Dae-jung
+2000,economic-sciences,James J. Heckman
+2000,economic-sciences,Daniel L. McFadden
+1999,physics,Gerardus 't Hooft,Martinus J.G. Veltman
+1999,chemistry,Ahmed H. Zewail
+1999,medicine,Günter Blobel
+1999,literature,Günter Grass
+1999,peace,Médecins Sans Frontières 
+1999,economic-sciences,Robert A. Mundell
+1998,physics,Robert B. Laughlin,Horst L. Störmer,Daniel C. Tsui
+1998,chemistry,Walter Kohn
+1998,chemistry,John A. Pople
+1998,medicine,Robert F. Furchgott,Louis J. Ignarro,Ferid Murad
+1998,literature,José Saramago
+1998,peace,John Hume,David Trimble
+1998,economic-sciences,Amartya Sen
+1997,physics,Steven Chu,Claude Cohen-Tannoudji,William D. Phillips
+1997,chemistry,Paul D. Boyer,John E. Walker
+1997,chemistry,Jens C. Skou
+1997,medicine,Stanley B. Prusiner
+1997,literature,Dario Fo
+1997,peace,International Campaign to Ban Landmines (ICBL) ,Jody Williams
+1997,economic-sciences,Robert C. Merton,Myron S. Scholes
+1996,physics,David M. Lee,Douglas D. Osheroff,Robert C. Richardson
+1996,chemistry,Robert F. Curl Jr.,Sir Harold W. Kroto,Richard E. Smalley
+1996,medicine,Peter C. Doherty,Rolf M. Zinkernagel
+1996,literature,Wislawa Szymborska
+1996,peace,Carlos Filipe Ximenes Belo,José Ramos-Horta
+1996,economic-sciences,James A. Mirrlees,William Vickrey
+1995,physics,Martin L. Perl
+1995,physics,Frederick Reines
+1995,chemistry,Paul J. Crutzen,Mario J. Molina,F. Sherwood Rowland
+1995,medicine,Edward B. Lewis,Christiane Nüsslein-Volhard,Eric F. Wieschaus
+1995,literature,Seamus Heaney
+1995,peace,Joseph Rotblat,Pugwash Conferences on Science,World Affairs 
+1995,economic-sciences,Robert E. Lucas Jr.
+1994,physics,Bertram N. Brockhouse
+1994,physics,Clifford G. Shull
+1994,chemistry,George A. Olah
+1994,medicine,Alfred G. Gilman,Martin Rodbell
+1994,literature,Kenzaburo Oe
+1994,peace,Yasser Arafat,Shimon Peres,Yitzhak Rabin
+1994,economic-sciences,John C. Harsanyi,John F. Nash Jr.,Reinhard Selten
+1993,physics,Russell A. Hulse,Joseph H. Taylor Jr.
+1993,chemistry,Kary B. Mullis
+1993,chemistry,Michael Smith
+1993,medicine,Richard J. Roberts,Phillip A. Sharp
+1993,literature,Toni Morrison
+1993,peace,Nelson Mandela,Frederik Willem de Klerk
+1993,economic-sciences,Robert W. Fogel,Douglass C. North
+1992,physics,Georges Charpak
+1992,chemistry,Rudolph A. Marcus
+1992,medicine,Edmond H. Fischer,Edwin G. Krebs
+1992,literature,Derek Walcott
+1992,peace,Rigoberta Menchú Tum
+1992,economic-sciences,Gary S. Becker
+1991,physics,Pierre-Gilles de Gennes
+1991,chemistry,Richard R. Ernst
+1991,medicine,Erwin Neher,Bert Sakmann
+1991,literature,Nadine Gordimer
+1991,peace,Aung San Suu Kyi 
+1991,economic-sciences,Ronald H. Coase
+1990,physics,Jerome I. Friedman,Henry W. Kendall,Richard E. Taylor
+1990,chemistry,Elias James Corey
+1990,medicine,Joseph E. Murray,E. Donnall Thomas
+1990,literature,Octavio Paz
+1990,peace,Mikhail Sergeyevich Gorbachev
+1990,economic-sciences,Harry M. Markowitz,Merton H. Miller,William F. Sharpe
+1989,physics,Norman F. Ramsey
+1989,physics,Hans G. Dehmelt,Wolfgang Paul
+1989,chemistry,Sidney Altman,Thomas R. Cech
+1989,medicine,J. Michael Bishop,Harold E. Varmus
+1989,literature,Camilo José Cela
+1989,peace,The 14th Dalai Lama (Tenzin Gyatso) 
+1989,economic-sciences,Trygve Haavelmo
+1988,physics,Leon M. Lederman,Melvin Schwartz,Jack Steinberger
+1988,chemistry,Johann Deisenhofer,Robert Huber,Hartmut Michel
+1988,medicine,Sir James W. Black,Gertrude B. Elion,George H. Hitchings
+1988,literature,Naguib Mahfouz
+1988,peace,United Nations Peacekeeping Forces 
+1988,economic-sciences,Maurice Allais
+1987,physics,J. Georg Bednorz,K. Alexander Müller
+1987,chemistry,Donald J. Cram,Jean-Marie Lehn,Charles J. Pedersen
+1987,medicine,Susumu Tonegawa
+1987,literature,Joseph Brodsky
+1987,peace,Oscar Arias Sánchez
+1987,economic-sciences,Robert M. Solow
+1986,physics,Ernst Ruska
+1986,physics,Gerd Binnig,Heinrich Rohrer
+1986,chemistry,Dudley R. Herschbach,Yuan T. Lee,John C. Polanyi
+1986,medicine,Stanley Cohen,Rita Levi-Montalcini
+1986,literature,Wole Soyinka
+1986,peace,Elie Wiesel
+1986,economic-sciences,James M. Buchanan Jr.
+1985,physics,Klaus von Klitzing
+1985,chemistry,Herbert A. Hauptman,Jerome Karle
+1985,medicine,Michael S. Brown,Joseph L. Goldstein
+1985,literature,Claude Simon
+1985,peace,International Physicians for the Prevention of Nuclear War 
+1985,economic-sciences,Franco Modigliani
+1984,physics,Carlo Rubbia,Simon van der Meer
+1984,chemistry,Robert Bruce Merrifield
+1984,medicine,Niels K. Jerne,Georges J.F. Köhler,César Milstein
+1984,literature,Jaroslav Seifert
+1984,peace,Desmond Mpilo Tutu
+1984,economic-sciences,Richard Stone
+1983,physics,Subramanyan Chandrasekhar
+1983,physics,William Alfred Fowler
+1983,chemistry,Henry Taube
+1983,medicine,Barbara McClintock
+1983,literature,William Golding
+1983,peace,Lech Walesa
+1983,economic-sciences,Gerard Debreu
+1982,physics,Kenneth G. Wilson
+1982,chemistry,Aaron Klug
+1982,medicine,Sune K. Bergström,Bengt I. Samuelsson,John R. Vane
+1982,literature,Gabriel García Márquez
+1982,peace,Alva Myrdal
+1982,peace,Alfonso García Robles
+1982,economic-sciences,George J. Stigler
+1981,physics,Nicolaas Bloembergen,Arthur Leonard Schawlow
+1981,physics,Kai M. Siegbahn
+1981,chemistry,Kenichi Fukui,Roald Hoffmann
+1981,medicine,Roger W. Sperry
+1981,medicine,David H. Hubel,Torsten N. Wiesel
+1981,literature,Elias Canetti
+1981,peace,Office of the United Nations High Commissioner for Refugees (UNHCR) 
+1981,economic-sciences,James Tobin
+1980,physics,James Watson Cronin,Val Logsdon Fitch
+1980,chemistry,Paul Berg
+1980,chemistry,Walter Gilbert,Frederick Sanger
+1980,medicine,Baruj Benacerraf,Jean Dausset,George D. Snell
+1980,literature,Czeslaw Milosz
+1980,peace,Adolfo Pérez Esquivel
+1980,economic-sciences,Lawrence R. Klein
+1979,physics,Sheldon Lee Glashow,Abdus Salam,Steven Weinberg
+1979,chemistry,Herbert C. Brown,Georg Wittig
+1979,medicine,Allan M. Cormack,Godfrey N. Hounsfield
+1979,literature,Odysseus Elytis
+1979,peace,Mother Teresa 
+1979,economic-sciences,Theodore W. Schultz,Sir Arthur Lewis
+1978,physics,Pyotr Leonidovich Kapitsa
+1978,physics,Arno Allan Penzias,Robert Woodrow Wilson
+1978,chemistry,Peter D. Mitchell
+1978,medicine,Werner Arber,Daniel Nathans,Hamilton O. Smith
+1978,literature,Isaac Bashevis Singer
+1978,peace,Mohamed Anwar al-Sadat
+1978,peace,Menachem Begin
+1978,economic-sciences,Herbert A. Simon
+1977,physics,Philip Warren Anderson,Sir Nevill Francis Mott,John Hasbrouck van Vleck
+1977,chemistry,Ilya Prigogine
+1977,medicine,Roger Guillemin,Andrew V. Schally
+1977,medicine,Rosalyn Yalow
+1977,literature,Vicente Aleixandre
+1977,peace,Amnesty International 
+1977,economic-sciences,Bertil Ohlin,James E. Meade
+1976,physics,Burton Richter,Samuel Chao Chung Ting
+1976,chemistry,William N. Lipscomb
+1976,medicine,Baruch S. Blumberg,D. Carleton Gajdusek
+1976,literature,Saul Bellow
+1976,peace,Betty Williams
+1976,peace,Mairead Corrigan
+1976,economic-sciences,Milton Friedman
+1975,physics,Aage Niels Bohr,Ben Roy Mottelson,Leo James Rainwater
+1975,chemistry,John Warcup Cornforth
+1975,chemistry,Vladimir Prelog
+1975,medicine,David Baltimore,Renato Dulbecco,Howard Martin Temin
+1975,literature,Eugenio Montale
+1975,peace,Andrei Dmitrievich Sakharov
+1975,economic-sciences,Leonid Vitaliyevich Kantorovich,Tjalling C. Koopmans
+1974,physics,Sir Martin Ryle,Antony Hewish
+1974,chemistry,Paul J. Flory
+1974,medicine,Albert Claude,Christian de Duve,George E. Palade
+1974,literature,Eyvind Johnson
+1974,literature,Harry Martinson
+1974,peace,Seán MacBride
+1974,peace,Eisaku Sato
+1974,economic-sciences,Gunnar Myrdal,Friedrich August von Hayek
+1973,physics,Leo Esaki,Ivar Giaever
+1973,physics,Brian David Josephson
+1973,chemistry,Ernst Otto Fischer,Geoffrey Wilkinson
+1973,medicine,Karl von Frisch,Konrad Lorenz,Nikolaas Tinbergen
+1973,literature,Patrick White
+1973,peace,Henry A. Kissinger
+1973,peace,Le Duc Tho 
+1973,economic-sciences,Wassily Leontief
+1972,physics,John Bardeen,Leon Neil Cooper,John Robert Schrieffer
+1972,chemistry,Christian B. Anfinsen
+1972,chemistry,Stanford Moore,William H. Stein
+1972,medicine,Gerald M. Edelman,Rodney R. Porter
+1972,literature,Heinrich Böll
+1972,economic-sciences,John R. Hicks,Kenneth J. Arrow
+1971,physics,Dennis Gabor
+1971,chemistry,Gerhard Herzberg
+1971,medicine,Earl W. Sutherland,Jr.
+1971,literature,Pablo Neruda
+1971,peace,Willy Brandt
+1971,economic-sciences,Simon Kuznets
+1970,physics,Hannes Olof Gösta Alfvén
+1970,physics,Louis Eugène Félix Néel
+1970,chemistry,Luis F. Leloir
+1970,medicine,Sir Bernard Katz,Ulf von Euler,Julius Axelrod
+1970,literature,Aleksandr Isayevich Solzhenitsyn
+1970,peace,Norman E. Borlaug
+1970,economic-sciences,Paul A. Samuelson
+1969,physics,Murray Gell-Mann
+1969,chemistry,Derek H. R. Barton,Odd Hassel
+1969,medicine,Max Delbrück,Alfred D. Hershey,Salvador E. Luria
+1969,literature,Samuel Beckett
+1969,peace,International Labour Organization (I.L.O.) 
+1969,economic-sciences,Ragnar Frisch,Jan Tinbergen
+1968,physics,Luis Walter Alvarez
+1968,chemistry,Lars Onsager
+1968,medicine,Robert W. Holley,Har Gobind Khorana,Marshall W. Nirenberg
+1968,literature,Yasunari Kawabata
+1968,peace,René Cassin
+1967,physics,Hans Albrecht Bethe
+1967,chemistry,Manfred Eigen,Ronald George Wreyford Norrish,George Porter
+1967,medicine,Ragnar Granit,Haldan Keffer Hartline,George Wald
+1967,literature,Miguel Angel Asturias
+1966,physics,Alfred Kastler
+1966,chemistry,Robert S. Mulliken
+1966,medicine,Peyton Rous
+1966,medicine,Charles Brenton Huggins
+1966,literature,Shmuel Yosef Agnon
+1966,literature,Nelly Sachs
+1965,physics,Sin-Itiro Tomonaga,Julian Schwinger,Richard P. Feynman
+1965,chemistry,Robert Burns Woodward
+1965,medicine,François Jacob,André Lwoff,Jacques Monod
+1965,literature,Mikhail Aleksandrovich Sholokhov
+1965,peace,United Nations Children's Fund (UNICEF) 
+1964,physics,Charles Hard Townes,Nicolay Gennadiyevich Basov,Aleksandr Mikhailovich Prokhorov
+1964,chemistry,Dorothy Crowfoot Hodgkin
+1964,medicine,Konrad Bloch,Feodor Lynen
+1964,literature,Jean-Paul Sartre
+1964,peace,Martin Luther King Jr.
+1963,physics,Eugene Paul Wigner
+1963,physics,Maria Goeppert Mayer,J. Hans D. Jensen
+1963,chemistry,Karl Ziegler,Giulio Natta
+1963,medicine,Sir John Carew Eccles,Alan Lloyd Hodgkin,Andrew Fielding Huxley
+1963,literature,Giorgos Seferis
+1963,peace,Comité international de la Croix Rouge (International Committee of the Red Cross) 
+1963,peace,Ligue des Sociétés de la Croix-Rouge (League of Red Cross Societies) 
+1962,physics,Lev Davidovich Landau
+1962,chemistry,Max Ferdinand Perutz,John Cowdery Kendrew
+1962,medicine,Francis Harry Compton Crick,James Dewey Watson,Maurice Hugh Frederick Wilkins
+1962,literature,John Steinbeck
+1962,peace,Linus Carl Pauling
+1961,physics,Robert Hofstadter
+1961,physics,Rudolf Ludwig Mössbauer
+1961,chemistry,Melvin Calvin
+1961,medicine,Georg von Békésy
+1961,literature,Ivo Andric
+1961,peace,Dag Hjalmar Agne Carl Hammarskjöld
+1960,physics,Donald Arthur Glaser
+1960,chemistry,Willard Frank Libby
+1960,medicine,Sir Frank Macfarlane Burnet,Peter Brian Medawar
+1960,literature,Saint-John Perse
+1960,peace,Albert John Lutuli
+1959,physics,Emilio Gino Segrè,Owen Chamberlain
+1959,chemistry,Jaroslav Heyrovsky
+1959,medicine,Severo Ochoa,Arthur Kornberg
+1959,literature,Salvatore Quasimodo
+1959,peace,Philip J. Noel-Baker
+1958,physics,Pavel Alekseyevich Cherenkov,Il´ja Mikhailovich Frank,Igor Yevgenyevich Tamm
+1958,chemistry,Frederick Sanger
+1958,medicine,George Wells Beadle,Edward Lawrie Tatum
+1958,medicine,Joshua Lederberg
+1958,literature,Boris Leonidovich Pasternak
+1958,peace,Georges Pire
+1957,physics,Chen Ning Yang,Tsung-Dao (T.D.) Lee
+1957,chemistry,Lord (Alexander R.) Todd
+1957,medicine,Daniel Bovet
+1957,literature,Albert Camus
+1957,peace,Lester Bowles Pearson
+1956,physics,William Bradford Shockley,John Bardeen,Walter Houser Brattain
+1956,chemistry,Sir Cyril Norman Hinshelwood,Nikolay Nikolaevich Semenov
+1956,medicine,André Frédéric Cournand,Werner Forssmann,Dickinson W. Richards
+1956,literature,Juan Ramón Jiménez
+1955,physics,Willis Eugene Lamb
+1955,physics,Polykarp Kusch
+1955,chemistry,Vincent du Vigneaud
+1955,medicine,Axel Hugo Theodor Theorell
+1955,literature,Halldór Kiljan Laxness
+1954,physics,Max Born
+1954,physics,Walther Bothe
+1954,chemistry,Linus Carl Pauling
+1954,medicine,John Franklin Enders,Thomas Huckle Weller,Frederick Chapman Robbins
+1954,literature,Ernest Miller Hemingway
+1954,peace,Office of the United Nations High Commissioner for Refugees (UNHCR) 
+1953,physics,Frits Zernike
+1953,chemistry,Hermann Staudinger
+1953,medicine,Hans Adolf Krebs
+1953,medicine,Fritz Albert Lipmann
+1953,literature,Sir Winston Leonard Spencer Churchill
+1953,peace,George Catlett Marshall
+1952,physics,Felix Bloch,Edward Mills Purcell
+1952,chemistry,Archer John Porter Martin,Richard Laurence Millington Synge
+1952,medicine,Selman Abraham Waksman
+1952,literature,François Mauriac
+1952,peace,Albert Schweitzer
+1951,physics,Sir John Douglas Cockcroft,Ernest Thomas Sinton Walton
+1951,chemistry,Edwin Mattison McMillan,Glenn Theodore Seaborg
+1951,medicine,Max Theiler
+1951,literature,Pär Fabian Lagerkvist
+1951,peace,Léon Jouhaux
+1950,physics,Cecil Frank Powell
+1950,chemistry,Otto Paul Hermann Diels,Kurt Alder
+1950,medicine,Edward Calvin Kendall,Tadeus Reichstein,Philip Showalter Hench
+1950,literature,Earl (Bertrand Arthur William) Russell
+1950,peace,Ralph Bunche
+1949,physics,Hideki Yukawa
+1949,chemistry,William Francis Giauque
+1949,medicine,Walter Rudolf Hess
+1949,medicine,Antonio Caetano de Abreu Freire Egas Moniz
+1949,literature,William Faulkner
+1949,peace,Lord (John) Boyd Orr of Brechin
+1948,physics,Patrick Maynard Stuart Blackett
+1948,chemistry,Arne Wilhelm Kaurin Tiselius
+1948,medicine,Paul Hermann Müller
+1948,literature,Thomas Stearns Eliot
+1947,physics,Sir Edward Victor Appleton
+1947,chemistry,Sir Robert Robinson
+1947,medicine,Carl Ferdinand Cori,Gerty Theresa Cori,née Radnitz
+1947,medicine,Bernardo Alberto Houssay
+1947,literature,André Paul Guillaume Gide
+1947,peace,Friends Service Council (The Quakers) 
+1947,peace,American Friends Service Committee (The Quakers) 
+1946,physics,Percy Williams Bridgman
+1946,chemistry,James Batcheller Sumner
+1946,chemistry,John Howard Northrop,Wendell Meredith Stanley
+1946,medicine,Hermann Joseph Muller
+1946,literature,Hermann Hesse
+1946,peace,Emily Greene Balch
+1946,peace,John Raleigh Mott
+1945,physics,Wolfgang Pauli
+1945,chemistry,Artturi Ilmari Virtanen
+1945,medicine,Sir Alexander Fleming,Ernst Boris Chain,Sir Howard Walter Florey
+1945,literature,Gabriela Mistral
+1945,peace,Cordell Hull
+1944,physics,Isidor Isaac Rabi
+1944,chemistry,Otto Hahn
+1944,medicine,Joseph Erlanger,Herbert Spencer Gasser
+1944,literature,Johannes Vilhelm Jensen
+1944,peace,Comité international de la Croix Rouge (International Committee of the Red Cross) 
+1943,physics,Otto Stern
+1943,chemistry,George de Hevesy
+1943,medicine,Henrik Carl Peter Dam
+1943,medicine,Edward Adelbert Doisy
+1939,physics,Ernest Orlando Lawrence
+1939,chemistry,Adolf Friedrich Johann Butenandt
+1939,chemistry,Leopold Ruzicka
+1939,medicine,Gerhard Domagk
+1939,literature,Frans Eemil Sillanpää
+1938,physics,Enrico Fermi
+1938,chemistry,Richard Kuhn
+1938,medicine,Corneille Jean François Heymans
+1938,literature,Pearl Buck
+1938,peace,Office international Nansen pour les Réfugiés (Nansen International Office for Refugees) 
+1937,physics,Clinton Joseph Davisson,George Paget Thomson
+1937,chemistry,Walter Norman Haworth
+1937,chemistry,Paul Karrer
+1937,medicine,Albert von Szent-Györgyi Nagyrápolt
+1937,literature,Roger Martin du Gard
+1937,peace,Cecil of Chelwood,Viscount (Lord Edgar Algernon Robert Gascoyne Cecil)
+1936,physics,Victor Franz Hess
+1936,physics,Carl David Anderson
+1936,chemistry,Petrus (Peter) Josephus Wilhelmus Debye
+1936,medicine,Sir Henry Hallett Dale,Otto Loewi
+1936,literature,Eugene Gladstone O'Neill
+1936,peace,Carlos Saavedra Lamas
+1935,physics,James Chadwick
+1935,chemistry,Frédéric Joliot,Irène Joliot-Curie
+1935,medicine,Hans Spemann
+1935,peace,Carl von Ossietzky
+1934,chemistry,Harold Clayton Urey
+1934,medicine,George Hoyt Whipple,George Richards Minot,William Parry Murphy
+1934,literature,Luigi Pirandello
+1934,peace,Arthur Henderson
+1933,physics,Erwin Schrödinger,Paul Adrien Maurice Dirac
+1933,medicine,Thomas Hunt Morgan
+1933,literature,Ivan Alekseyevich Bunin
+1933,peace,Sir Norman Angell (Ralph Lane)
+1932,physics,Werner Karl Heisenberg
+1932,chemistry,Irving Langmuir
+1932,medicine,Sir Charles Scott Sherrington,Edgar Douglas Adrian
+1932,literature,John Galsworthy
+1931,chemistry,Carl Bosch,Friedrich Bergius
+1931,medicine,Otto Heinrich Warburg
+1931,literature,Erik Axel Karlfeldt
+1931,peace,Jane Addams
+1931,peace,Nicholas Murray Butler
+1930,physics,Sir Chandrasekhara Venkata Raman
+1930,chemistry,Hans Fischer
+1930,medicine,Karl Landsteiner
+1930,literature,Sinclair Lewis
+1930,peace,Lars Olof Jonathan (Nathan) Söderblom
+1929,physics,Prince Louis-Victor Pierre Raymond de Broglie
+1929,chemistry,Arthur Harden,Hans Karl August Simon von Euler-Chelpin
+1929,medicine,Christiaan Eijkman
+1929,medicine,Sir Frederick Gowland Hopkins
+1929,literature,Thomas Mann
+1929,peace,Frank Billings Kellogg
+1928,physics,Owen Willans Richardson
+1928,chemistry,Adolf Otto Reinhold Windaus
+1928,medicine,Charles Jules Henri Nicolle
+1928,literature,Sigrid Undset
+1927,physics,Arthur Holly Compton
+1927,physics,Charles Thomson Rees Wilson
+1927,chemistry,Heinrich Otto Wieland
+1927,medicine,Julius Wagner-Jauregg
+1927,literature,Henri Bergson
+1927,peace,Ferdinand Buisson
+1927,peace,Ludwig Quidde
+1926,physics,Jean Baptiste Perrin
+1926,chemistry,The (Theodor) Svedberg
+1926,medicine,Johannes Andreas Grib Fibiger
+1926,literature,Grazia Deledda
+1926,peace,Aristide Briand
+1926,peace,Gustav Stresemann
+1925,physics,James Franck,Gustav Ludwig Hertz
+1925,chemistry,Richard Adolf Zsigmondy
+1925,literature,George Bernard Shaw
+1925,peace,Sir Austen Chamberlain
+1925,peace,Charles Gates Dawes
+1924,physics,Karl Manne Georg Siegbahn
+1924,medicine,Willem Einthoven
+1924,literature,Wladyslaw Stanislaw Reymont
+1923,physics,Robert Andrews Millikan
+1923,chemistry,Fritz Pregl
+1923,medicine,Frederick Grant Banting,John James Rickard Macleod
+1923,literature,William Butler Yeats
+1922,physics,Niels Henrik David Bohr
+1922,chemistry,Francis William Aston
+1922,medicine,Archibald Vivian Hill
+1922,medicine,Otto Fritz Meyerhof
+1922,literature,Jacinto Benavente
+1922,peace,Fridtjof Nansen
+1921,physics,Albert Einstein
+1921,chemistry,Frederick Soddy
+1921,literature,Anatole France
+1921,peace,Karl Hjalmar Branting
+1921,peace,Christian Lous Lange
+1920,physics,Charles Edouard Guillaume
+1920,chemistry,Walther Hermann Nernst
+1920,medicine,Schack August Steenberg Krogh
+1920,literature,Knut Pedersen Hamsun
+1920,peace,Léon Victor Auguste Bourgeois
+1919,physics,Johannes Stark
+1919,medicine,Jules Bordet
+1919,literature,Carl Friedrich Georg Spitteler
+1919,peace,Thomas Woodrow Wilson
+1918,physics,Max Karl Ernst Ludwig Planck
+1918,chemistry,Fritz Haber
+1917,physics,Charles Glover Barkla
+1917,literature,Karl Adolph Gjellerup
+1917,literature,Henrik Pontoppidan
+1917,peace,Comité international de la Croix Rouge (International Committee of the Red Cross) 
+1916,literature,Carl Gustaf Verner von Heidenstam
+1915,physics,Sir William Henry Bragg,William Lawrence Bragg
+1915,chemistry,Richard Martin Willstätter
+1915,literature,Romain Rolland
+1914,physics,Max von Laue
+1914,chemistry,Theodore William Richards
+1914,medicine,Robert Bárány
+1913,physics,Heike Kamerlingh Onnes
+1913,chemistry,Alfred Werner
+1913,medicine,Charles Robert Richet
+1913,literature,Rabindranath Tagore
+1913,peace,Henri La Fontaine
+1912,physics,Nils Gustaf Dalén
+1912,chemistry,Victor Grignard
+1912,chemistry,Paul Sabatier
+1912,medicine,Alexis Carrel
+1912,literature,Gerhart Johann Robert Hauptmann
+1912,peace,Elihu Root
+1911,physics,Wilhelm Wien
+1911,chemistry,Marie Curie,née Sklodowska
+1911,medicine,Allvar Gullstrand
+1911,literature,Count Maurice (Mooris) Polidore Marie Bernhard Maeterlinck
+1911,peace,Tobias Michael Carel Asser
+1911,peace,Alfred Hermann Fried
+1910,physics,Johannes Diderik van der Waals
+1910,chemistry,Otto Wallach
+1910,medicine,Albrecht Kossel
+1910,literature,Paul Johann Ludwig Heyse
+1910,peace,Bureau international permanent de la Paix (Permanent International Peace Bureau) 
+1909,physics,Guglielmo Marconi,Karl Ferdinand Braun
+1909,chemistry,Wilhelm Ostwald
+1909,medicine,Emil Theodor Kocher
+1909,literature,Selma Ottilia Lovisa Lagerlöf
+1909,peace,Auguste Marie François Beernaert
+1909,peace,Paul Henri Benjamin Balluet d'Estournelles de Constant,Baron de Constant de Rebecque
+1908,physics,Gabriel Lippmann
+1908,chemistry,Ernest Rutherford
+1908,medicine,Ilya Ilyich Mechnikov,Paul Ehrlich
+1908,literature,Rudolf Christoph Eucken
+1908,peace,Klas Pontus Arnoldson
+1908,peace,Fredrik Bajer
+1907,physics,Albert Abraham Michelson
+1907,chemistry,Eduard Buchner
+1907,medicine,Charles Louis Alphonse Laveran
+1907,literature,Rudyard Kipling
+1907,peace,Ernesto Teodoro Moneta
+1907,peace,Louis Renault
+1906,physics,Joseph John Thomson
+1906,chemistry,Henri Moissan
+1906,medicine,Camillo Golgi,Santiago Ramón y Cajal
+1906,literature,Giosuè Carducci
+1906,peace,Theodore Roosevelt
+1905,physics,Philipp Eduard Anton von Lenard
+1905,chemistry,Johann Friedrich Wilhelm Adolf von Baeyer
+1905,medicine,Robert Koch
+1905,literature,Henryk Sienkiewicz
+1905,peace,Baroness Bertha Sophie Felicita von Suttner,née Countess Kinsky von Chinic und Tettau
+1904,physics,Lord Rayleigh (John William Strutt)
+1904,chemistry,Sir William Ramsay
+1904,medicine,Ivan Petrovich Pavlov
+1904,literature,Frédéric Mistral
+1904,literature,José Echegaray y Eizaguirre
+1904,peace,Institut de droit international (Institute of International Law) 
+1903,physics,Antoine Henri Becquerel
+1903,physics,Pierre Curie,Marie Curie,née Sklodowska
+1903,chemistry,Svante August Arrhenius
+1903,medicine,Niels Ryberg Finsen
+1903,literature,Bjørnstjerne Martinus Bjørnson
+1903,peace,William Randal Cremer
+1902,physics,Hendrik Antoon Lorentz,Pieter Zeeman
+1902,chemistry,Hermann Emil Fischer
+1902,medicine,Ronald Ross
+1902,literature,Christian Matthias Theodor Mommsen
+1902,peace,Élie Ducommun
+1902,peace,Charles Albert Gobat
+1901,physics,Wilhelm Conrad Röntgen
+1901,chemistry,Jacobus Henricus van 't Hoff
+1901,medicine,Emil Adolf von Behring
+1901,literature,Sully Prudhomme
+1901,peace,Jean Henry Dunant
+1901,peace,Frédéric Passy
